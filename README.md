@@ -1,2 +1,2 @@
-Human Iris detection system using Gabor filter. Not yet completed. In the process...
+Human Iris detection system using Gabor filter. 
 Using UBIRIS_800_600 database
